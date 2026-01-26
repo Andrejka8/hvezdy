@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace utulek_2.Model
 {
-    internal class Zvire
+    public class Zvire
     {
         public int ID { get; set; } // automaticky generované
         public string Jméno { get; set; } = string.Empty;
