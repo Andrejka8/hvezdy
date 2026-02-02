@@ -1,4 +1,4 @@
-Popis funkcé:
+Popis funkcí:
 1. Přídání zvířete
 2. Vypsání všech zvířat
 3. Vyhledávání zvířat
