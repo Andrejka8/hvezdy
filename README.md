@@ -4,7 +4,7 @@ Popis funkcí:
 3. Vyhledávání zvířat
 4. Označení adopce
 5. Statistiky
-6. Kkoec
+6. Konec
 
 Rozdělení rolí:
 Jan Hamala, Andrea Dvořáková, Denisa Černá, Lucie Schwarzová
