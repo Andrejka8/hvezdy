@@ -10,6 +10,7 @@ namespace utulek_2
     {
         static void Main(string[] args)
         {
+            UI.KonzoleUI.HlavniMenu();
         }
     }
 }
