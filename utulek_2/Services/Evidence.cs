@@ -100,7 +100,7 @@ namespace utulek_2
             }
 
             Console.WriteLine("\n{0,-4} {1,-12} {2,-8} {3,-4} {4,-8} {5,-12} {6,-10} {7}",
-                "ID", "Jméno", "Druh", "Věk", "Pohlaví", "Příjem", "Adopce", "Poznámka"); 
+                "ID", "Jméno", "Druh", "Věk", "Pohlaví", "Příjem", "Adopce", "Poznámka");  
             Console.WriteLine(new string('-', 90));
 
             foreach (var z in zvirata)
